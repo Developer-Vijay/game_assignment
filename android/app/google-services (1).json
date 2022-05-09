@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948908900150",
+    "project_id": "game-assignment",
+    "storage_bucket": "game-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948908900150:android:64548f7573030037fbbd97",
+        "android_client_info": {
+          "package_name": "com.example.vijay_game_assignement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948908900150-6klg5oodsinaevcnbkcfe787eitna3oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfQtv01ZMFyCHCkiF7RJue4w1zOUG8D_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948908900150-6klg5oodsinaevcnbkcfe787eitna3oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
